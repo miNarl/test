@@ -1,0 +1,78 @@
+const products = { 
+  data:[
+    {
+      id:1,
+      name:"SMYCKA 스뮈카",
+      info:"조화부케, 다크핑크, 50 cm",
+      price:19900,
+      img:"https://www.ikea.com/kr/ko/images/products/smycka-artificial-bouquet-dark-pink__0903036_pe685246_s5.jpg",
+      category:"flora"
+    },
+    {
+      id:2,
+      name:"GARNITYREN 가르니튀렌",
+      info:"그릇+뚜껑 5종, 혼합 색상",
+      price:14900,
+      img:"https://www.ikea.com/kr/ko/images/products/garnityren-bowl-with-lid-set-of-5-mixed-colours__1061325_ph178575_s5.jpg",
+      category:"kitchen"
+    },
+    {
+      id:3,
+      name:"TÄLLBYN 텔뷘",
+      info:"플로어스탠드, 니켈 도금/오팔 화이트 유리, 135 cm",
+      price:149000,
+      img:"https://www.ikea.com/kr/ko/images/products/taellbyn-floor-lamp-nickel-plated-opal-white-glass__0779116_pe759264_s5.jpg",
+      category:"lamp"
+    },
+    {
+      id:4,
+      name:"SMYCKA 스뮈카",
+      info:"인조 나뭇가지, 실내외겸용",
+      price:4900,
+      img:"https://www.ikea.com/kr/ko/images/products/smycka-artificial-spray-in-outdoor-white__1008002_pe826669_s5.jpg",
+      category:"flora"
+    },
+    {
+      id:5,
+      name:"KALLAX 칼락스",
+      info:"선반유닛, 하이글로스 화이트, 77x147 cm",
+      price:149000,
+      img:"https://www.ikea.com/kr/ko/images/products/kallax-shelving-unit-high-gloss-white__1102294_pe866903_s5.jpg",
+      category:"shelf"
+    },
+    {
+      id:6,
+      name:"BLÅSVERK 블로스베르크",
+      info:"탁상스탠드, 베이지, 36 cm",
+      price:19900,
+      img:"https://www.ikea.com/kr/ko/images/products/blasverk-table-lamp-beige__1150618_pe884634_s5.jpg",
+      category:"lamp"
+    },
+    {
+      id:7,
+      name:"HEMNES 헴네스",
+      info:"2칸신발장, 화이트, 89x30x127 cm",
+      price:229000,
+      img:"https://www.ikea.com/kr/ko/images/products/hemnes-shoe-cabinet-with-2-compartments-white__1151418_pe886155_s5.jpg",
+      category:"shelf"
+    },
+    {
+      id:8,
+      name:"ENTUSIASM 엔투시아슴",
+      info:"그릇, 패턴/블루, 12 cm",
+      price:19900,
+      img:"https://www.ikea.com/kr/ko/images/products/entusiasm-bowl-patterned-blue__0747060_pe744393_s5.jpg",
+      category:" bowl"
+    },
+    {
+      id:9,
+      name:"FJÄLLARNIKA 피엘라르니카",
+      info:"이불, 매우 따뜻함, 150x200 cm",
+      price:79900,
+      img:"https://www.ikea.com/kr/ko/images/products/fjaellarnika-duvet-extra-warm__1010040_pe827852_s5.jpg?f=xxxs",
+      category:"blanket"
+    }
+  ] 
+} 
+
+export default products;
